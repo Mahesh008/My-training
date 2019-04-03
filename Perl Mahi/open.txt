@@ -1,0 +1,71 @@
+MAHESH BATTA
+
+	     Mobile: 7382637024	Mail id:maheshmahib6@gmail.com
+ 
+    Carrier objective:
+To have a growth oriented and challenging career in Verification, where I can contribute my knowledge and skills to the organization and enhance my experience through continuous learning and teamwork.
+    Professional training:
+6 months of training in Advance Diploma in Design & Verification in TRUE VLSI LEARNING  CENTER   Bangalore.
+    Technical skills:
+
+	              EDA TOOL                                           : Ncsim (Cadence).
+	              Hardware Description language	         : verilog, system verilog.
+	              Platforms	           : Linux, Windows.
+	              Verification methodologies                  : UVM Basics.
+	              Academic interest	             : Frontend Design and verification.
+	              Knowledge                                             : RTL Coding, SIMULATION.
+
+    Academic details:
+COURSE	INSTITUTION	BOARD/UNIVERSITY	YEAR OF PASSING	AGGREGATE      
+          (%)
+B.E
+(ECE)	
+SCSVMV University	SCSVMV University	2018	8.28
+XII	Murli Rao’s Junior college	Board of intermediate	2014	           90.9
+S.S.C	APRS Gyarampalli
+	Board of secondary
+Education	2012	9.2
+
+    PROJECTS:
+APB_SPI – Verification
+Technology/Platform: System verilog
+The APB is part of the AMBA  protocol family. It provides a low-cost interface  that is optimized for minimal power consumption and reduced interface complexity.
+SPI (Serial Peripheral Interface) are widely used to provide board-level interfaces between different devices such as microcontrollers, DACs, ADCs and others.
+Registers need to be configured for proper operation of device. 
+Architectured the class based environment in SV,verified the RTL module with single master and single slave.
+
+Real Time Clock – RTL Design & Verification
+Technology/Platform: verilog
+Implemented a digital Real Time clock with the LCD character display driver, counting mechanism, alarm generator etc.
+RTL supports LCD display controller, Alarm generator (alarm load/clear), Time Generator (actual time load/clear), Alarm sound generation, Key register and multiple Counters.
+Block level verification of each block has been done.
+All the blocks are integrated into the Top Level DUT
+Top level verification done as per the test plan.
+
+Arbiter:
+             Technology/Platform: Verilog
+
+              The role of the arbiter system is to control which master has access to the bus.
+
+
+    Extra Co-Circular Activities:
+
+Presented a paper on Wireless Power Transmission in Apogee at SCSVMV College  on April 2017.
+
+    Competence:
+Active listener.
+Time management skills.
+Leadership qualities.
+Personal profile:                                                                                                                                             
+	       Name	  : B.Mahesh
+	       Date of birth	             : 03-06-1997
+	       Father’s Name	                   : Mr. B.Somasekhar Naidu
+	       Languages known	             : English, Telugu
+	       Hobbies	            : listening to Music, Watching Anime 
+	       Address	              : H.NO:11-189, PTM Road
+       B.kothakota, 517370, Andhra Pradesh.
+ Declaration:
+
+I hereby declare that the above information is true to the best of my knowledge.
+ Date:
+	   Place:	B.Mahesh
